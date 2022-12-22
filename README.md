@@ -3,7 +3,7 @@
 <h3 align="center">An informatics student at UPN "Veteran" Yogyakarta. Have an interest in website development, especially the Front End Development</h3>
 
 
-- 🌱 I’m currently learning **Angular and ReactJS**
+- 🌱 I’m currently learning **ReactJS**
 
 
 <h3 align="left">Languages and Tools:</h3>
